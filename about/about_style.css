@@ -1,0 +1,193 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+
+body{
+
+    font-family: cursive;
+    padding-bottom: 40px;
+    padding: 0px;
+    bottom: 0px;
+	background-image: linear-gradient(rgba(38,53,70,0.80), rgba(40,56,72,0.81)), url(bgAbout.jpg);
+
+}
+
+
+.content{
+    margin: 3%;
+    padding-bottom: 30%;
+    background-color: #c7c3e3;
+}
+
+.title{
+	color: darkcyan;
+    font-family: "sacramento";
+    text-align: center;
+    padding-top: 30px;
+    font-size: 80px;
+}
+
+.profile1{
+	width: 150px;
+	height: 150px;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	
+}
+
+.personalinfo1{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.interest1{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.education1{
+    padding-bottom: 0px;
+    margin-block-end: 0px;
+    margin-inline-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-start: 0px;
+}
+
+
+
+
+.profile2{
+		width: 150px;
+	height: 150px;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	
+}
+
+
+.personalinfo2{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.interest2{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.education2{
+    padding-bottom: 0px;
+    margin-block-end: 0px;
+    margin-inline-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-start: 0px;
+}
+
+
+.profile3{
+	width: 150px;
+	height: 150px;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	
+}
+
+.personalinfo3{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.interest3{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.education3{
+    padding-bottom: 0px;
+    margin-block-end: 0px;
+    margin-inline-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-start: 0px;
+}
+
+
+
+.movie{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+
+.wave{
+		width: 150px;
+	height: 150px;
+}
+
+.sense{
+	width: 150px;
+	height: 150px;
+}
+
+.child{
+	width: 150px;
+	height: 150px;
+}
+
+.after
+{
+	width:150px;
+    height: 150px;
+   }
+
+.paradox{
+		width: 150px;
+	height: 150px;
+}
+
+.anna{
+	width: 150px;
+	height: 150px;
+
+}
+
+.amanda{
+	width: 150px;
+	height: 150px;
+}
+
+.ends{
+	width: 150px;
+	height: 150px;
+}
+
+.live{
+	width: 150px;
+	height: 150px;
+}
+
+.habit{
+	width: 150px;
+	height: 150px;
+}
+
+
