@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-size: 1500px 600px;
+    background-origin: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    margin-top: 5%;
+    font-size: 40px;
+    color: black;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.form{
+    margin-top: 3%;
+    margin-left: 38%;
+}
+
+.nameuna{
+    float: left;
+    margin-left: 25px;
+}
+.bdayuna{
+    float: left;
+    margin-left: -30px;
+}
+.writename{
+    float: left;
+    padding: 5px;
+}
+.choosemonth{
+    float: left;
+    padding: 6px;
+    padding-right: 47px;
+    padding-left: 46px;
+}
+.writeday{
+    float: left;
+    padding: 5px;
+    margin-right: 30%;
+    display: block;
+}
+.enter{
+    float: left;
+    padding: 10px 50px;
+    margin-left: 12%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+}
+.enter:hover{
+    background-color: teal;
+}
+.bdate{
+    float: left;
+    margin-left: -14px;
+}
+
+.content{
+    margin-left: 13%;
+    margin-right: 13%;
+    background-color: white;
+    padding: 35px;
+    padding-bottom: 10%;
+}
+
+
+.apr{
+    float: right;
+}
+.april{
+    float: right;
+}
+.ma{
+    float: right;
+}
+.may{
+    float: right;
+}
+.ju{
+    float: right;
+}
+.june{
+    float: right;
+}
+.jul{
+    float: right;
+}
+.july{
+    float: right;
+}
+.aug{
+    float: right;
+}
+.august{
+    float: right;
+}
+.sept{
+    float: right;
+}
+.september{
+    float: right;
+}
+.oct{
+    float: right;
+}
+.october{
+    float: right;
+}
+.nov{
+    float: right;
+}
+.november{
+    float: right;
+}
+.dec{
+    float: right;
+}
+.december{
+    float: right;
+}
+.jan{
+    float: right;
+}
+
+.january{
+    float: right;
+}
+
+.feb{
+    float: right;
+}
+.february{
+    float: right;
+}
+
+.mar{
+    float: right;
+}
+
+.march{
+    float: right;
+}
